@@ -1,0 +1,2078 @@
+{
+  "settings": {
+    "name": "estartupy.pl",
+    "currentPage": "kurs.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#f3c649",
+        "secondaryColor": "#3d8eb9",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#fafafa",
+        "#fff2f2",
+        "#bfcecb"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "uniqCompNum": 104,
+    "versionPublish": "5.2.0",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/zasb-10-w400px-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "W celu poprawy jakosci naszych uslug, stosujemy na tej stronie pliki cookies. Wiecej szczególów na ten temat znajdziesz na stronie <a href='polityka.html'>Polityka Prywatnosci</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "Aby kontynuowac, musisz zgodzic sie z warunkami naszego <a href='regulamin.html'>Regulaminu</a> oraz <a href='polityka.html'>Polityka Prywatnosci</a>."
+    },
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-126029308-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-126029308-2');\r\n</script>",
+    "siteUrl": "https://estratupy.github.io",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "imageResize": true,
+    "robotsSwitcher": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "estartupy.pl",
+        "meta_descr": "Zbuduj profesjonalną darmową stronę internetową od zera, krok po kroku, bez kodowania i wiedzy z tej dziedziny.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "color": "#efefef",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "50",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1056.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"https://www.youtube.com/watch?v=JdoGjaMKYqo\" target=\"_blank\">DARMOWA&nbsp;</a><br>STRONA KROK PO KROKU",
+          "text": "Zbuduj własną profesjonalnie wyglądającą stronę internetową od zera, krok po kroku, bez konieczności posiadania jakiejkolwiek wiedzy z tej dziedziny.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://www.youtube.com/watch?v=av7TptnVbKs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OBEJRZYJ FILM INSTRUKTAŻOWY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "DLA KOGO TEN TUTORIAL?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Tutorial ten jest idealnym rozwiązaniem dla osób nie posiadających wiedzy technicznej, które nie są zaznajomione z zawiłościami tworzenia stron internetowych. Przedstawiam w nim krok po kroku jak od zero stworzyć profesjonalnie wyglądającą stronę internetową przy jak najniższych kosztach. <b>Strona, na którą patrzysz została stworzona w tym kreatorze</b>. Jeżeli podoba Ci się ta strona i chciałbyś taką dla siebie, powinieneś zobaczyć darmowy kurs jakim się tutaj dzielę. Pokazuję jak i gdzie najlepiej wykupić sobie hosting (serwer gdzie umieścimy naszą stronę), jak szybko i łatwo stworzyć taką stronę (darmowy kreator stron internetowych) oraz jak gotową stronę umieścić na serwerze.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-h",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "35",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-linuxpl-336x177.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "HOSTING",
+          "text": "Tutorial pokazuje jak utworzyć konto hostingowe w firmie <b>linuxpl</b>, jednym z największych dostawców usług hostingowych w Polsce (4 miejsce na rynku Polskim). Firma ta istnieje już od 15 lat i oferuje świetne rozwiązania (produkty i usługi) w bardzo konkurencyjnych cenach.<br>Korzystam z tej firmy ok kilku lat, mam u nich parę różnych kont hostingowych i niegdy nie miałem z nimi żadnych problemów. Wszystko działa jak powinno, a jak czegoś nie wiem lub potrzebuję pomocy to ich pomoc techniczna jest dostępna 24/7 i odpowiada w ciągu kilku minut.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://estartupy.pl/lh\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-k",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "35",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-mobirise-336x177.png",
+              "link": "https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&AFFILIATE=110249",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "KREATOR STRON",
+          "text": "W tutorialu pokazuję jak zainstalować i korzystać z programu <b><a href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\">Mobirise</a></b>.&nbsp;Jest&nbsp;to bezpłatny kreator stron internetowych, który działa w trybie offline (instalujemy go na komputerze i nie potrzebujemy internetu podczas pracy nad projektem strony) dla systemu Windows i komputerów Mac, która umożliwia łatwe tworzenie małych/średnich witryn, stron lądowania, internetowych CV i portfoliów, witryn promujących aplikacje, wydarzenia, usługi i produkty.<br>Kreator ten posiada minimalistyczny, niezwykle łatwy w użyciu interfejs. Tworzone w nim strony świetnie współpracują z urządzeniami mobilnymi (świetnie na nich wyglądają i dopasowują się do rozmiaru ekranu), do dyspozycji mamy gotowe bloki, zaprojektowane zgodnie z najnowszymi trendami. Kreator ten jest bezpłatny nawet w przypadku projektów komercyjnych i non-profit<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-l",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "title": "Jak działa Mobirise:",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gif01.gif",
+              "link": "https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&AFFILIATE=110249",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Przeciągaj i układaj stronę z gotowych bloków",
+          "text": "Wybierasz z listy gotowych bloków te, które potrzebujesz i które cię interesują i zwyczajnie przeciągasz je w odpowiednie miejsce na stronie. Do dyspozycji masz wiele różnych bloków: bannery (zwykłe lub z video), slidery, galerie zdjęć, opinie klientów, formularze kontaktowe, mapy google i inne.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-m",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gif02.gif",
+              "link": "https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&AFFILIATE=110249",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Zmieniaj style na bieżąco",
+          "text": "Możesz edytować zawartość każdego bloku tak jakbyś to robił w każdym jednym edytorze tekstu. Klikając element graficzny, możesz zmienić go na własny, dowolny obrazek, filmik lub ikonkę.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/gif04.gif",
+              "link": "https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&AFFILIATE=110249",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Konfiguruj parametry bloków",
+          "text": "Możesz zmieniać parametry poszczególnych bloków za pomocą panelu konfiguracyjnego.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BUDUJ Z GOTOWYCH BLOKÓW",
+          "text": "Twórz niesamowite strony na komputery i urządzenia przenośne. <br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=JdoGjaMKYqo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ FILM INSTRUKTAŻOWY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-y",
+          "_styles": {
+            "H2": {
+              "color": "#efefef"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "Płatność za cały rok z góry.",
+          "description2": "Płatność za cały rok z góry.",
+          "description3": "Płatność za cały rok z góry.",
+          "description4": "Płatność za cały rok z góry.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "PORÓWNAJ Z INNYMI",
+          "subtitle": "<span style=\"font-style: normal;\">Poniżej zostały porównane oferty standardowych kreatorów stron internetowych z rozwiązaniem zaprezentowanym w moim tutorialu. Wszystkie standardowe kreatory online oferują oczywiście całkowicie darmowe konta, ale kożystając z takiego konta nie mamy możliwości podczepienia własnej domeny, a na naszej stronie internetowej będą wyświetlały się reklamy danego kreatora. Rozwiązanie prezentowane w moim tutorialu nie wiąże się z żadnymi tego typu praktykami/ograniczeniami, dlatego poniżej porównujemy ceny najtańszych pakietów <b>wolnych od reklam i z własną domeną</b>.</span>",
+          "title1": "HOSTING + MOBIRISE",
+          "title2": "HOSTING PLUS + MOBIRISE",
+          "title3": "Wix / Weebly",
+          "title4": "WebWave",
+          "subtitle1": "Najtańszy pakiet hostingowy",
+          "subtitle2": "Trochę lepszy pakiet hostingowy",
+          "subtitle3": "2 zagraniczne firmy",
+          "subtitle4": "Polska firma",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "zł",
+          "currency2": "zł",
+          "currency3": "zł",
+          "currency4": "zł",
+          "price1": "5",
+          "price2": "8",
+          "price3": "30",
+          "price4": "30",
+          "period1": "/mies.",
+          "period2": "/mies.",
+          "period3": "/mies.",
+          "period4": "/mies.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4 GB pojemności dysku</li><li class=\"list-group-item\">100 GB transferu / mies.</li><li class=\"list-group-item\">-</li><li class=\"list-group-item\">nieograniczona ilość stron</li><li class=\"list-group-item\">nieograniczona ilość podstron</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 GB pojemności dysku</li><li class=\"list-group-item\">200 GB transferu / mies.</li><li class=\"list-group-item\">certyfikat SSL</li><li class=\"list-group-item\">nieograniczona ilość stron</li><li class=\"list-group-item\">nieograniczona ilość podstron</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">bez limitu</li><li class=\"list-group-item\">bez limitu</li><li class=\"list-group-item\">certyfikat SSL</li><li class=\"list-group-item\">1 strona</li><li class=\"list-group-item\">nieograniczona ilość podstron</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">bez limitu</li><li class=\"list-group-item\">bez limitu</li><li class=\"list-group-item\">certyfikat SSL</li><li class=\"list-group-item\">1 strona</li><li class=\"list-group-item\">nieograniczona ilość podstron</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-10"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAPISZ SIĘ",
+          "subtitle": "Zapisz się do newslettera aby otrzymywać powiadomienia o kolejnych darmowych materiałach szkoleniowych.<br>Wkrótce pojawią się nowe tutoriale. Nie przegap tego!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ZAPISZ MNIE</a>",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Dziękuję za wypełnienie formularza!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Wpisz swój adres email..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22"
+        }
+      ]
+    },
+    "kontakt.html": {
+      "settings": {
+        "meta_descr": "Skontaktuj się z estartupy.pl na https://estartupy.pl/kontakt/",
+        "title": "Kontakt",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1082.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "KONTAKT",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WYŚLIJ EMAIL",
+          "subtitle": "Chętnie odpowiem na wszelkie pytania i sugestie. Nie krępuj się! Skorzystaj z formularza poniżej i zostaw wiadomość.<br>UWAGA! Jest to tylko strona demonstracyjna. Jeżeli chcesz wysłać mi wiadomość idź na <a href=\"https://estartupy.pl/kontakt\" class=\"text-primary\" target=\"_blank\">https://estartupy.pl/kontakt</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
+          "form": {
+            "action": "https://estartupy.pl",
+            "alerts": {
+              "success": "Dziękuję za wypełnienie formularza!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-w",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Wrocław, Poland",
+              "placeId": "ChIJv4q11MLpD0cR9eAFwq5WCbc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22"
+        }
+      ]
+    },
+    "kurs.html": {
+      "settings": {
+        "meta_descr": "Darmowy kurs tworzenia darmowych stron internetowych. Zobacz jak od zera postawić stronę internetową za darmo",
+        "title": "Kurs - estartupy.pl",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1109.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": 0.5
+          },
+          "title": "KURS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "title": "\"Kilka zdań\" o motywach powstania tego kursu&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Strona ta oraz kurs powstał w celu ułatwienia osobą takim jak ja start w świat e-biznesu. Na co dzień pracuję jako inżynier elektronik. Nie ma na co narzekać, ale odkąd pamiętam chciałem spróbować własnych sił w świecie biznesu. Miałem kilka pomysłów i chciałem je wypróbować.</p><p><br></p><p>Zdecydowana większość ludzi dzisiaj posiada smartfon z dostępem do internetu, przez co każdą wolną chwilę, czy to na przystanku, czy w tramwaju, przeważnie spędzamy na buszowaniu w sieci. Dlatego w dzisiejszych czasach, biznes zaczyna się od strony internetowej, jeżeli nie ma cię w internecie to nie istniejesz.</p><p><br></p><p>Potrzebowałem więc strony internetowej, ale że miał to być tylko projekt \"na boku\" nie chciałem wydawać zbyt dużo pieniędzy. Zwróciłem się więc o pomoc do wujka Google. Znalazłem kilka \"darmowych\" kreatorów stron internetowych, więc prace ruszyły pełną parą. Niestety szybko okazało się, że te darmowe kreatory nie tak do końca są darmowe. Wprowadzają nas trochę w błąd, bo oferują oni darmowe \"konto próbne\", raczej niż darmowe strony internetowe. Oczywiście można sobie na tym koncie uruchomić własną stronę, ale dla osób potrzebujących prostej stronki dla własnego, raczkującego biznesu na nic się taka strona nie przyda. Strona utworzona na takim koncie próbnym posiada szereg ograniczeń, dyskwalifikujących ją jako potencjalną opcje dla strony firmowej. Darmowe konto służy jedynie do zaznajomienia się z kreatorem, ale żeby stworzyć swoją stronę internetową, nadającą się do czegokolwiek, to musimy wykupić roczny abonament za średnio 360 zł, płatny za cały rok z góry.&nbsp;</p><p><br></p><p>Jako gówniarz, jeszcze w podstawówce bawiłem się trochę w tworzenie stron internetowych (wtedy jeszcze się pisało kod html w notatniku), dlatego wiedziałem, że na prostą stronkę nie potrzeba wiele - kawałek miejsca na serwerze i stronę internetową. Sprawdziłem więc ceny serwerów i proszę... ceny o przynajmniej 5 razy niższe. Pozostało więc tylko znaleźć sposób na stworzenie strony.</p><p>Po kilku próbach i błędach (oraz moim straconym czasie i pieniądzach) znalazłem fajny program do tworzenia stron internetowych, które można zapisać na dysku i dowolnie przenosić z miejsca na miejsce.</p><p><br></p><p>Pewnie się zastanawiasz, poco tyle zachodu dla zaoszczędzenia 200-300 zł? Cóż, dobre pytanie. Nie wiem co to było, może jestem do przesady oszczędny, może po prostu chciałem się sprawdzić... a może fakt, że widziałem w tym możliwość zarobienia parę złoty... Jeżeli tamci biorą 350 zł, a ty weźmiesz 150 zł... Pierwszy klient opłaci ci koszt serwera, a pozostali płacą już bezpośrednio tobie... Poświęcasz raz 3-4 godziny na klienta (stworzenie stronki), a później zbierasz już tylko regularnie \"plony\".</p><p><br></p><p>Ja w końcu nie wykorzystałem tego pomysłu na biznes, ale był to dla mnie świetny początek podróży w świat e-commerce. Dużo się nauczyłem przy tych prostych stronkach i znacznie łatwiej było mi \"przesiąść\" się na bardziej zaawansowane systemy.&nbsp;</p><p><br></p><p>Teraz postanowiłem podzielić się swoją wiedzą z innymi. Może uda mi się zaoszczędzić Tobie tego czasu i pieniędzy, które ja straciłem na szukanie tego rozwiązania. Bo fajnie jest rozwiązywać swoje problemy, człowiek czerpie z tego sporą przyjemność, ale jeśli można podzielić się swoimi doświadczeniami i tym samym pomóc 10-ciu innym osobom, to radość jest 10 razy większa...</p><p><br></p><p>Mam nadzieję, że materiał się komuś przyda.</p><p>Pozdrawiam i życzę sukcesów.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1081.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "PODZIEL SIĘ TĄ STRONĄ!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "O czym jest ten tutorial?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Pokażę Ci jak i gdzie stworzyć własną, profesjonalnie wyglądającą stronę internetową. Od zera do w pełni funkcjonalnej strony w zaledwie 2 godziny.&nbsp;<span style=\"font-size: 1.07rem;\">W 2 godziny zbudujesz własną stronę, bez ponoszenia żadnych kosztów, nawet jeśli nie masz większego pojęcia o komputerach i internecie. Tutorial poprowadzi cię krok po kroku przez proces rejestrowania hostingu (serwera), instalowania darmowego kreatora stron internetowych, budowy strony, konfiguracji oraz eksportu gotowej strony na serwer.</span></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=av7TptnVbKs",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Spis Treści Kursu",
+          "text": "Co zbudujemy\n<br>Dlaczego ten kreator (trochę o konkurencji i haczykach)\n<br>Rejestracja konta hostingowego\n<br>Jak logować się do konta klienta i konta hostingowego\n<br>Jak założyć konto email\n<br>Instalacja darmowego kreatora stron internetowych\n<br>Konfiguracja kreatora stron\n<br>Tworzenie nowego projektu witryny\n<br>BUDOWA STRONY INTERNETOWEJ (Strona Domowa)\n<br>Dodawanie kolejnych podstron\n<br>Zmiana favicon (ikonki na zakładkach przeglądarki)\n<br>Ciasteczka i RODO\n<br>GOOGLE ANALYTICS\n<br>Eksport witryny na serwer\n<br>Jak pracować nad witryną z kilku komputerów\n<br>Test Google Analytics<br>",
+          "_tags": [
+            "Motywy"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/watch?v=8YxjLJaMStQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ FILMIK</a> ",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          },
+          "_anchor": "msg-box4-2l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAPISZ SIĘ",
+          "subtitle": "Zapisz się do newslettera aby otrzymywać powiadomienia o kolejnych darmowych materiałach szkoleniowych.<br>Wkrótce pojawią się nowe tutoriale. Nie przegap tego!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ZAPISZ MNIE</a>",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Dziękuję za wypełnienie formularza!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Wpisz swój adres email..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22"
+        }
+      ]
+    },
+    "polityka.html": {
+      "settings": {
+        "meta_descr": "Polityka prywatności ",
+        "title": "Polityka Prywatności",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1216.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "POLITYKA PRYWATNOŚCI",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Postanowienia Ogólne",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>1.&nbsp;</b><span style=\"font-size: 1.07rem;\">Administratorem danych jest OptimaTech AS z siedzibą w Gandsgaten 9C, 4307 Sandnes, Norwegia, wpisanej do Rejestru Przedsiębiorców pod numerem organizacji: 919 973 986. Ochrona danych odbywa się zgodnie z wymogami powszechnie obowiązujących przepisów prawa, a ich przechowywanie ma miejsce na zabezpieczonych serwerach.</span></p><p><b>2.</b>&nbsp;<span style=\"font-size: 1.07rem;\">Dla interpretacji terminów stosuje się słowniczek Regulaminu lub tak jak zostało to opisane w Polityce Prywatności (jeżeli wynika to bezpośrednio z opisu).</span></p><p><b>3.</b>&nbsp;<span style=\"font-size: 1.07rem;\">Na potrzeby lepszego odbioru Polityki Prywatności termin „Użytkownik” zastąpiony został określeniem „Ty”,  „Administrator” – „My”. Termin „RODO” oznacza Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE.</span></p><p><b>4.</b>&nbsp;<span style=\"font-size: 1.07rem;\">Szanujemy prawo do prywatności i dbamy o bezpieczeństwo danych. W tym celu używany jest m.in. bezpieczny protokół szyfrowania komunikacji (SSL).</span></p><p><b>5.</b>&nbsp;<span style=\"font-size: 1.07rem;\">Dane osobowe podawane w formularzu na naszej stronie są traktowane jako poufne i nie są widoczne dla osób nieuprawnionych.</span></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Administrator Danych",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>6. </b>Usługodawca jest administratorem danych swoich klientów. Oznacza to, że jeśli posiadasz Konto na naszej stronie, to przetwarzamy Twoje dane jak: imię, nazwisko, adres e-mail, numer telefonu, adres IP.\n</p><p><b>7. </b>Usługodawca jest także administratorem osób zapisanych na newsletter i osób zapisanych na webinar.\n</p><p><b>8. </b>Dane osobowe przetwarzane są:\n</p><p><b>a.</b> zgodnie z przepisami dotyczącymi ochrony danych osobowych,\n</p><p><b>b.</b> zgodnie z wdrożoną Polityką Prywatności,\n</p><p><b>c.</b> w zakresie i celu niezbędnym do nawiązania, ukształtowania treści Umowy, zmiany bądź jej rozwiązania oraz prawidłowej realizacji Usług świadczonych drogą elektroniczną,\n</p><p><b>d.</b> w zakresie i celu niezbędnym do wypełnienia uzasadnionych interesów (prawnie usprawiedliwionych celów), a przetwarzanie nie narusza praw i wolności osoby, której dane dotyczą:\n</p><p>- w zakresie i celu zgodnym ze zgodą wyrażoną przez Ciebie jeśli zapisałeś się na newsletter,\n</p><p>- w zakresie i celu zgodnym z wyrażoną przez Ciebie zgodą jeżeli zapisałeś się na webinar.\n</p><p>\n</p><p><b>9. </b>Każda osoba, której dane dotyczą (jeżeli jesteśmy ich administratorem) ma prawo dostępu do danych, sprostowania, usunięcia lub ograniczenia przetwarzania, prawo sprzeciwu, prawo wniesienia skargi do organu nadzorczego.\n</p><p><b>10. </b>Kontakt z osobą nadzorującą przetwarzanie danych osobowych w organizacji Usługodawcy jest możliwy drogą elektroniczną pod adresem e-mail: kontakt@estartupy.pl.\n</p><p><b>11.</b> Zastrzegamy sobie prawo do przetwarzania Twoich danych po rozwiązaniu Umowy lub cofnięciu zgody tylko w zakresie na potrzeby dochodzenia ewentualnych roszczeń przed sądem lub jeżeli przepisy krajowe albo unijne bądź prawa międzynarodowego obligują nas do retencji danych.\n</p><p><b>12. </b>Usługodawca ma prawo udostępniać dane osobowe Użytkownika oraz innych jego danych podmiotom upoważnionym na podstawie właściwych przepisów prawa (np. organom ścigania).\n</p><p><b>13. </b>Usunięcie danych osobowych może nastąpić na skutek cofnięcia zgody bądź wniesienia prawnie dopuszczalnego sprzeciwu na przetwarzanie danych osobowych.\n</p><p><b>14.</b> Usługodawca nie udostępniania danych osobowych innym podmiotom aniżeli upoważnionym na podstawie właściwych przepisów prawa.\n</p><p><b>15.</b> Wdrożyliśmy pseudonimizację, szyfrowanie danych oraz mamy wprowadzoną kontrolę dostępu dzięki czemu minimalizujemy skutki ewentualnego naruszenia bezpieczeństwa danych.\n</p><p><b>16.</b> Dane osobowe przetwarzają osoby wyłącznie upoważnione przez nas albo przetwarzający, z którymi ściśle współpracujemy.</p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Pliki cookies",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>17. </b>Witryna eSTARTUPY.pl używa cookies. Są to niewielkie pliki tekstowe wysyłane przez serwer www i przechowywane przez oprogramowanie komputera przeglądarki. Kiedy przeglądarka ponownie połączy się ze stroną, witryna rozpoznaje rodzaj urządzenia, z którego łączy się użytkownik. Parametry pozwalają na odczytanie informacji w nich zawartych jedynie serwerowi, który je utworzył. Cookies ułatwiają więc korzystanie z wcześniej odwiedzonych witryn.\n</p><p>\n</p><p>Gromadzone informacje dotyczą adresu IP, typu wykorzystywanej przeglądarki, języka, rodzaju systemu operacyjnego, dostawcy usług internetowych, informacji o czasie i dacie, lokalizacji oraz informacji przesyłanych do witryny za pośrednictwem formularza kontaktowego.\n</p><p>\n</p><p><b>18. </b>Zebrane dane służą do monitorowania i sprawdzenia, w jaki sposób użytkownicy korzystają z naszych witryn, aby usprawniać funkcjonowanie serwisu zapewniając bardziej efektywną i bezproblemową nawigację. Monitorowania informacji o użytkownikach dokonujemy korzystając z narzędzia Google Analytics, które rejestruje zachowanie użytkownika na stronie.\n</p><p>\n</p><p>Cookies identyfikuje użytkownika, co pozwala na dopasowanie treści witryny, z której korzysta, do jego potrzeb. Zapamiętując jego preferencje, umożliwia odpowiednie dopasowanie skierowanych do niego reklam. Stosujemy pliki cookies, aby zagwarantować najwyższy standard wygody naszego serwisu, a zebrane dane są wykorzystywane jedynie wewnątrz firmy eSTARTUPY.pl w celu optymalizacji działań.\n</p><p>\n</p><p><b>19. </b> Na naszej witrynie wykorzystujemy następujące pliki cookies:\n</p><p>\n</p><p><b>a)</b> „niezbędne” pliki cookies, umożliwiające korzystanie z usług dostępnych w ramach serwisu, np. uwierzytelniające pliki cookies wykorzystywane do usług wymagających uwierzytelniania w ramach serwisu;\n</p><p>\n</p><p><b>b)</b> pliki cookies służące do zapewnienia bezpieczeństwa, np. wykorzystywane do wykrywania nadużyć w zakresie uwierzytelniania w ramach serwisu;\n</p><p>\n</p><p><b>c)</b> „wydajnościowe” pliki cookies, umożliwiające zbieranie informacji o sposobie korzystania ze stron internetowych serwisu;\n</p><p>\n</p><p><b>d) </b>„funkcjonalne” pliki cookies, umożliwiające „zapamiętanie” wybranych przez użytkownika ustawień i personalizację interfejsu użytkownika, np. w zakresie wybranego języka lub regionu, z którego pochodzi użytkownik, rozmiaru czcionki, wyglądu strony internetowej itp.;\n</p><p>\n</p><p><b>e)</b> „reklamowe” pliki cookies, umożliwiające dostarczanie użytkownikom treści reklamowych bardziej dostosowanych do ich zainteresowań.\n</p><p>\n</p><p><b>20.</b> Użytkownik w każdej chwili ma możliwość wyłączenia lub przywrócenia opcji gromadzenia cookies poprzez zmianę ustawień w przeglądarce internetowej. Instrukcja zarządzania plikami cookies jest dostępna na stronie\n</p><p>\n</p><p><a href=\"http://www.allaboutcookies.org/manage-cookies\" target=\"_blank\">http://www.allaboutcookies.org/manage-cookies</a>\n</p><p>\n</p><p>Dodatkowe dane osobowe, jak adres e-mail, zbierane są jedynie w miejscach, w których użytkownik wypełniając formularz wyraźnie wyraził na to zgodę. Powyższe dane zachowujemy i wykorzystujemy tylko do potrzeb niezbędnych do wykonania danej funkcji.</p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2t"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-26"
+        }
+      ]
+    },
+    "regulamin.html": {
+      "settings": {
+        "meta_descr": "Regulamin",
+        "title": "Regulamin",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1026.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "REGULAMIN",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "REGULAMIN KORZYSTANIA Z BLOGA",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>\n</p><p><b>1. </b>Niniejszy Regulamin korzystania ze strony internetowej (dalej: „Regulamin”) określa warunki, na jakich Przedsiębiorca Mariusz Wysoczański umożliwia nieodpłatne korzystanie ze strony internetowej („Blog”) będącej własnością OptimaTech AS, zamieszonej na domenie internetowej: estartupy.pl, w tym z zawartych w niej materiałów i treści.</p><p><br></p><p><b>2.</b> Blog jest także formą działalności przedsiębiorcy i teksty w nim zamieszczane mogą mieć formę reklamy lub promocji.</p><p><br></p><p> \n</p><p><b>3.</b> Korzystanie z niniejszego Bloga jest równoznaczne z wyrażeniem zgody na objęcie warunkami niniejszego Regulaminu. W razie braku zgody na warunki Regulaminu dalsze korzystanie ze Blog nie jest dopuszczalne. Na Blogu nie można składać ofert, zamówień, czy zapytań ofertowych do Przedsiębiorcy.</p><p><br></p><p>\n</p><p><b>4.</b> Prawa do Bloga jako całości przysługują Mariuszowi Wysoczańskiemu, zaś prawa do poszczególnych elementów jego zawartości przysługują osobom trzecim, tj. osobom fizycznym, osobom prawnym oraz innym podmiotom, których materiały i treści zgodnie z prawem są udostępniane przez Przedsiębiorcę na Blogu.</p><p><br></p><p><b>5.</b> Przedsiębiorca nie ponosi odpowiedzialności za zamieszczone na Blogu materiały i treści pochodzące od osób trzecich, korzystających z Bloga („Użytkownicy”), w szczególności w formie komentarzy. Umieszczając na Blogu materiały lub treści Użytkownik oświadcza, że przysługują mu do nich prawa autorskie oraz zezwala na ich bezterminową i bezwarunkową publikację w serwisie.</p><p><br></p><p><b>6.</b> Moderatorzy Bloga zastrzegają sobie prawo do usuwania poszczególnych wpisów w Blogu, jeżeli naruszą one zasady współżycia społecznego, prawo obowiązujące na terytorium Rzeczpospolitej Polskiej lub zawierają treści wulgarne lub obraźliwe.</p><p><br></p><p> \n</p><p><b>7. </b>Układ i kompozycja Bloga, zastosowane w nim elementy i rozwiązania graficzne oraz aplikacje znajdujące się na Blogu, stanowią własność Przedsiębiorcy, o ile nie jest wprost stwierdzone inaczej, i są przedmiotem ochrony prawnej.</p><p><br></p><p>\n</p><p><b>8. </b>Zawartość Bloga podlega ochronie przepisów prawa autorskiego. Wykorzystywanie bez zgody Przedsiębiorcy jakichkolwiek materiałów i treści zamieszczonych na Blogu może stanowić naruszenie praw autorskich, jednakże Użytkownicy Bloga mają prawo korzystania z materiałów i treści udostępnianych za jej pośrednictwem wyłącznie na własny użytek osobisty, w celach zgodnych z przeznaczeniem Bloga oraz z przepisami prawa, Regulaminem oraz dobrymi obyczajami.</p><p><br></p><p><b>9. </b>Przedsiębiorca wyraża zgodę na rozpowszechnianie materiałów i treści zamieszczanych na Blogu wyłącznie pod warunkiem wskazania w miejscu ich publikacji bezpośredniego adresu internetowego do podstrony Bloga, z której zostały powielone, wraz z informacją o ich pochodzeniu (adresem Bloga). W pozostałych przypadkach, w tym w przypadku niespełnienia ww. warunku Użytkownicy Bloga nie są uprawnieni do jakiegokolwiek rozpowszechniania, w tym zwielokrotniania, czy innego udostępniania, sprzedawania lub w inny sposób wprowadzania do obrotu zawartości Bloga, zarówno w całości, jak i w części. W szczególności, nie jest dozwolone ich wykorzystywanie w jakiejkolwiek zorganizowanej działalności zarobkowej lub niezarobkowej bez wcześniejszej pisemnej zgody Przedsiębiorcy.</p><p><br></p><p><b>10.</b> W trakcie korzystania z Bloga w systemie teleinformatycznym Użytkownika instalowane są tzw. ciasteczka (pliki cookies) dla celów identyfikacji oraz dla celów statystycznych. Użytkownik Bloga wyraża zgodę na przechowywanie przez Administratora na jego komputerze plików cookies, tj. plików tekstowych lub innych danych informatycznych, przechowywanych na urządzeniu końcowym Użytkownika Bloga. Pliki te nie ingerują w integralność systemu Użytkownika Bloga, a służą przede wszystkim do prowadzenia statystyk Administratora Bloga, dostosowania zawartości Bloga do preferencji użytkownika. Pliki cookies nie mają na celu zmiany konfiguracji komputera użytkowania oraz instalowania złowrogiego oprogramowania. Przeglądarki internetowe domyślnie akceptują pliki cookies. W każdej chwili można wyłączyć w przeglądarce ich akceptację, jednak efektem takiej zmiany mogą być utrudnienia związane z korzystaniem z Bloga.</p><p><br></p><p><b>11.</b> Na Blogu mogą być wyświetlane reklamy pochodzące z serwisów zewnętrznych, co wiąże się z wykorzystaniem przez reklamodawców zewnętrznych plików cookie lub właściwych elementów oprogramowania, na co Użytkownik wyraża zgodę.</p><p><br></p><p> \n</p><p><b>12. </b>Przy korzystaniu z Bloga zalecane jest posiadanie zaktualizowanego oprogramowania antywirusowego. Przedsiębiorca dokłada wszelkich starań, aby Blog był wolny od złośliwego oprogramowania, niemniej Przedsiębiorca nie ponosi odpowiedzialności za skutki korzystania z Bloga, powstałe w systemie teleinformatycznym użytkownika, w tym w infrastrukturze technicznej i danych.</p><p><br></p><p>\n</p><p><b>13. </b>Przedsiębiorca dokłada wszelkich starań, aby materiały i treści zamieszczone na Blogu były aktualne, dokładne, oraz dostępne nieprzerwanie, jednakże nie ponosi odpowiedzialności za jakiekolwiek skutki wynikające z nieaktualności, nietrafności, niedokładności lub niezgodności treści ze stanem rzeczywistym, a także ich niedostępności w jakimkolwiek momencie, w tym za skutki wynikające z polegania na tych materiałach i treściach.</p><p><br></p><p><b>14.</b> Przedsiębiorca nie ponosi odpowiedzialności za prawne, finansowe i jakiekolwiek inne konsekwencje użycia przez Użytkownika materiałów i treści zamieszczonych na Blogu.</p><p><br></p><p><b>15.</b> Reklamacje i uwagi, co do funkcjonowania Bloga oraz dostępnych materiałów i treści, narzędzi i usług należy zgłaszać na adres e-mail: kontakt@estartupy.pl&nbsp;</p><p><br></p><p><b>16.</b> Przedsiębiorca jest uprawniony do zmiany Regulaminu w każdym czasie. Zmiana Regulaminu wchodzi w życie z momentem publikacji nowej wersji Regulaminu na Blogu. W przypadku braku zgody na zmianę Regulaminu dalsze korzystanie z Bloga nie jest dopuszczalne.</p><p><br></p><p><b>17.</b> Przedsiębiorca zastrzega sobie prawo do wiążącej interpretacji treści Regulaminu, z zastrzeżeniem bezwzględnie obowiązujących przepisów prawa.</p><p><br></p><p> \n</p><p><b>18. </b>Wszelkie spory wynikłe z korzystania z Bloga, nie rozwiązane polubownie, rozstrzygane będą przez właściwy miejscowo i rzeczowo sąd powszechny.</p><p><br></p><p> \n</p><p>\n</p><p>Sandnes, 15.10.2018r.</p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-24"
+        }
+      ]
+    },
+    "co-czytac.html": {
+      "settings": {
+        "meta_descr": "Warto czytać i rozwijać się jeśli marzy Ci się własny biznes internetowy (i nie tylko). Zobacz co czytać warto",
+        "title": "estartupy.pl polecają czytać",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kurs.html\">KURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"https://estartupy.pl/lh\" target=\"_blank\">NAJLEPSZY HOSTING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://secure.avangate.com/affiliate.php?ACCOUNT=DELUXMEN&amp;AFFILIATE=110249\" target=\"_blank\">KREATOR STRON</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">CO CZYTAĆ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-estartupy-white-w400px-401x74.png",
+              "height": 128,
+              "alt": "estartupy.pl",
+              "link": "https://estartupy.pl",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://estartupy.pl\">estartupy.pl</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/daria-nepriakhina-474558-unsplash-2000x1292.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "CO CZYTAĆ",
+          "text": "<p>Lista książek o tematyce biznesowej, które warto przeczytać.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4-godzinny-tydzien-pracy-1200x1200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "\"4-godzinny tydzień pracy\"<br>Tim Ferriss",
+          "text": "\"Pokazuje ona, jak krok po kroku zaprojektować sobie luksusowy styl życia. Zapomnij o starej koncepcji emerytury i całej reszcie planów odkładania życia na później – nie musisz czekać.\"&nbsp;<br><br>Świetna książka o tym jak sobie ułatwiać życie. Autor ma bzika na punkcie wyciskania maksimum ze swojego życia i ciała. Książka ta opisuje metody jakie Tim stosuje, żeby być bardziej produktywnym, mieć więcej czasu i czerpać więcej przyjemności z życia.&nbsp;<br>Książka opisuje różne metody i pomysły na wyrwanie się z pracy od 9 do 17 (nie koniecznie zwalniając się z pracy na etacie).<br>Możemy przeczytać historie i zwierzenia ludzi, którym się to udało właśnie dzięki tej książce.<br>W swojej książce Tim jest bardzo konkretny - podaje dokładnie z których aplikacji korzysta, z jakich programów, z jakich gadżetów, gdzie można je znaleźć, podaje konkretne nazwy firm i linki do stron. <br>O wielu aplikacjach i programach nigdy nie słyszałem, a okazały się one bardzo przydatne.<br><br>Szczerze polecam tą książkę, świetny prezent dla kogoś (moi bracia otrzymali po egzemplarzu). Książka, która \"otwiera oczy\" na pewne sprawy i mocno motywuje do działania.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.empik.com/4-godzinny-tydzien-pracy-ferriss-timothy,p1044942286,ksiazka-p\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GDZIE KUPIĆ</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-30",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAPISZ SIĘ",
+          "subtitle": "Zapisz się do newslettera aby otrzymywać powiadomienia o kolejnych darmowych materiałach szkoleniowych.<br>Wkrótce pojawią się nowe tutoriale. Nie przegap tego!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ZAPISZ MNIE</a>",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Dziękuję za wypełnienie formularza!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Wpisz swój adres email..."
+              }
+            }
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2z"
+        }
+      ]
+    }
+  }
+}
